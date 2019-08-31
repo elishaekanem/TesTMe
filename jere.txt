@@ -1,0 +1,8 @@
+•	Apply colors to backgrounds
+•	Contain webpage elements in boxes and float those boxes to specific positions on the page.
+•	Speed up page rendering .
+•	Increase accessibilty.
+•	Reduce update and maintenace time, etc.
+Let look at this in a graphical way the two picture below shade more light on this
+
+
